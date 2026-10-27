@@ -5,7 +5,7 @@ Renewable energy engineering graduate (First-Class BEng (Hons), University of Po
 ## What I build
 
 - **Measurement and embedded work:** Python, embedded C/C++ on microcontrollers, circuit simulation in LTspice, and MATLAB and Simulink for modelling.
-- **Small business software:** a job-management system with a pricing engine for Elite Electrical and Security Services, built and deployed with the owner's permission.
+- **Small business software:** a job, quote and invoice manager for a small trade business, built for a family firm and published as a separate copy: [small-trade-job-manager](https://github.com/Davies-Energy-Electronics/small-trade-job-manager).
 - **Installation experience:** I have worked as a security installer with Elite Electrical and Security Services since 2022, alongside my degree.
 
 A measurement project is being prepared for publication. I will link it here once it is public.
